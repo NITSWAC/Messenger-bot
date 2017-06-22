@@ -1,6 +1,6 @@
-# WSDC Chatbot
+# Messenger Chatbot
 
-This is a small test project for a WSDC chatbot
+This is a small test project for a Messengar chatbot
 
 ## Running instructions
 1. node index.js
